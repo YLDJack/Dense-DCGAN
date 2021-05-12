@@ -1,0 +1,2 @@
+# Dense-DCGAN
+Dense DCGAN
